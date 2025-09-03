@@ -43,8 +43,8 @@
 
 🔹 GitHub Pages
 
-Если подключены GitHub Pages, сайт доступен по ссылке вида:
-https://username.github.io/repository-name/
+Сайт также доступен по ссылке вида: 
+https://alineitgirl.github.io/ADMS/
 
 ---
 
