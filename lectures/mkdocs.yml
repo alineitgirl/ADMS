@@ -1,0 +1,21 @@
+site_name: Мои лекции
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+    - content.code.annotate
+nav:
+  - Главная: index.md
+  - Лекция 1: lecture01.md
+  - Лекция 2: lecture02.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - footnotes
+  - def_list
